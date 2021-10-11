@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Arithmetic {
     public static void main(String[] args) {
+        System.out.println("Het resultaat is: " + (5 * 8));
+
 //        Scanner keyboard = new Scanner(System.in);
 //        int intValue = keyboard.nextInt();
 //
